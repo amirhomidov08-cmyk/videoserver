@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "ws": "^8.14.2"  // Yoki eng so'nggi versiyasi
+    "ws": "^8.14.2" 
   },
   "engines": {
     "node": ">=16.0.0"  // Render uchun mos Node.js versiyasini ko'rsatish
@@ -16,3 +16,4 @@
   "author": "",
   "license": "ISC"
 }
+
